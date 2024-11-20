@@ -22,7 +22,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({
   return (
     <CardContainer
       {...props}
-      className="bg-white rounded-xl shadow-md overflow-hidden"
+      className="bg-white w-auto lg:w-[350px] rounded-xl shadow-md overflow-hidden"
     >
       <div className="flex lg:flex-col items-center justify-center">
         <CardImage image={image} />

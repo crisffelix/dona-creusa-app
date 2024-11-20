@@ -35,6 +35,30 @@ const initialState = {
       value: 10,
       image: Img4,
     },
+    {
+      id: 5,
+      title: "Filé mignon suíno acebolado, arroz e feijão",
+      value: 10,
+      image: Img4,
+    },
+    {
+      id: 6,
+      title: "Filé mignon suíno acebolado, arroz e feijão",
+      value: 10,
+      image: Img4,
+    },
+    {
+      id: 7,
+      title: "Filé mignon suíno acebolado, arroz e feijão",
+      value: 10,
+      image: Img4,
+    },
+    {
+      id: 8,
+      title: "Filé mignon suíno acebolado, arroz e feijão",
+      value: 10,
+      image: Img4,
+    },
   ],
 };
 

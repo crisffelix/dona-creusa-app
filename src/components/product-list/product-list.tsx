@@ -8,7 +8,7 @@ export const ProductList: React.FC = () => {
   const router = useRouter();
 
   return (
-    <div className="flex flex-col gap-6">
+    <div className="w-full mx-auto items-center flex flex-wrap flex-col lg:flex-row gap-6 lg:gap-3">
       {products.map((item) => (
         <ProductCard
           onClick={() => {

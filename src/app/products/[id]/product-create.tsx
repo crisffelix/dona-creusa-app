@@ -8,7 +8,7 @@ import {
 import { moneyFormatterBR } from "@/utils/formatters";
 import { StaticImageData } from "next/image";
 
-const WPP_NUMBER = "5585986117155";
+const WPP_NUMBER = "558584411147";
 const PRICES = {
   P: Number(process.env.NEXT_PUBLIC_PRODUCT_PRICE_P),
   M: Number(process.env.NEXT_PUBLIC_PRODUCT_PRICE_M),
